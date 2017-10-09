@@ -11,6 +11,10 @@
     "reactjs",
     "redux"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opsone/init-react-redux-app.git"
+  },
   "author": "Jeremy Chaufourier",
   "license": "MIT",
   "bin": {
