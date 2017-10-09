@@ -1,0 +1,27 @@
+{
+  "name": "init-react-redux-app",
+  "version": "1.0.0",
+  "description": "Initialize React apps with build configuration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "redux"
+  ],
+  "author": "Jeremy Chaufourier",
+  "license": "MIT",
+  "bin": {
+    "irra": "./index.js"
+  },
+  "preferGlobal": "true",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0",
+    "fs-extra": "^4.0.2",
+    "pluralize": "^7.0.0",
+    "write-pkg": "^3.1.0"
+  }
+}
