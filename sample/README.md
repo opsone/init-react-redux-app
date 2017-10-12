@@ -2,6 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Sample
 
+Test sample :
+```
+npm i
+OR
+yarn
+```
+
+
 ## Installation create-react-app
 
 ```
